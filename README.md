@@ -1,11 +1,11 @@
 # SNIFF
 
-SNIFF is a security auditing and social-engineering research tool.You can use it to find the MAC address of Internet of device on a wireless network.
+SNIFF is a security auditing and social-engineering research tool.You can use it to find the MAC address of Internet of Things on a wireless network.
 
 ## :book: How it works
 * Scan for a target wireless network.
 * Launch the Handshake Snooper.
-* Find the MAC address of Internet of device.
+* Find the MAC address of Internet of Things.
 
 ## :scroll: Tools
 You need some Software and Hardware tools!
